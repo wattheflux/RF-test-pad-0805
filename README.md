@@ -1,2 +1,2 @@
-RF Test Pad for 0805 package, designed in Altium Designer
-RF traces are 50 Ohm, ~0.5mm
+- RF test pad for 0805 package, designed in Altium Designer.
+- Controlled-impedance RF traces (50 Ω), approximately 0.5 mm trace width.
