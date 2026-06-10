@@ -1,5 +1,11 @@
 # RFTP0805
+## Description
 - RF test pad for 0805 package, designed in Altium Designer.
 - Board dimension: 60mm x 25mm
 - RF trace: impedance control at 50Ω, ~0.5mm width
-![3D Model](TP3D0805.png)
+## Design Updates
+### V1.0
+- Initial board design
+![3D Model](TP3D0805_v1.0.png)
+### V1.1 - 6/10/2026
+
