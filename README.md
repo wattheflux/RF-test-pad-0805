@@ -4,11 +4,9 @@
 - Board dimension: 60mm x 25mm
 - RF trace: impedance control at 50Ω, ~0.5mm width
 ## Design Updates
-### V1.0
-- 6/10/2026
+### V1.0 - 6/10/2026
 - Initial board design
 ![3D Model](TP3D0805_v1.0.png)
-### V1.1
+### V1.1 - 6/10/2026
 - 6/10/2026
-- 
 
