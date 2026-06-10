@@ -1,2 +1,1 @@
-RF Test Pad for 0805 package
-Designed in Altium Designer
+RF Test Pad for 0805 package, designed in Altium Designer
