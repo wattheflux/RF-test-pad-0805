@@ -8,5 +8,5 @@
 - Initial board design
 ![3D Model](TP3D0805_v1.0.png)
 ### V1.1 - 6/10/2026
-- 6/10/2026
+
 
